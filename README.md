@@ -30,7 +30,7 @@ El proyecto está desplegado y funcionando en el siguiente enlace:
 - Express.js
 - MySQL (mysql2)
 - JWT (JSON Web Tokens)
-- Bcrypt (opcional si implementaste hash)
+- Bcrypt
 - Dotenv
 - Morgan
 - CORS
